@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kienld30499
+- 👋 Hi, I’m @kienld
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning CV and NLP
 
